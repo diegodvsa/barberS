@@ -122,7 +122,7 @@ banner img.ativo{
     opacity: 1;
 }
 
-hgeader i.material-icons:hover{
+header i.material-icons:hover{
     cursor: pointer;
 }
 
